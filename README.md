@@ -50,7 +50,7 @@ The following peripherals are connected to the *L2_AHB* bus:
 
 
 
-**<--------------------------------------- RTL level design ----------------------------------------------->**
+**<--------------------------------------- Part 3: RTL level design ----------------------------------------------->**
 
 
 We use Verilog HDL to build this system. The application used for development is Xilinx Vivado 2019.2. Please confirm your Vivado version before use. *.xpr* project file is available, and you can find it in the path *$ vivado/cortex_M3_verification.zip*. To avoid compatibility error, we strongly advise you build project by yourself.
